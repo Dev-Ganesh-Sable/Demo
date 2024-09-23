@@ -8,3 +8,9 @@ p {
     text-align: center;
     text-transform: uppercase;
 }
+
+.class {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
